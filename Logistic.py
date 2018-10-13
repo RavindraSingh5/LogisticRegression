@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan  6 01:43:07 2018
-
-@author: Hemant Jaiman
-"""
-#Data preprocessing
-
 import numpy as np
 import pandas as pd
 
