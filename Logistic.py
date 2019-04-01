@@ -1,3 +1,5 @@
+# I used logistic regression algorithm on Titanic data-set for classification of servived or not.
+
 import numpy as np
 import pandas as pd
 
